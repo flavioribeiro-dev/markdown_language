@@ -3,5 +3,5 @@
 Estou aprendendo a **linguagem Markdown** para o *Git/Github*
 
 
-Negrito: ** ... **
+Negrito: ** ... ** <br>
 Itálico: * ... *
