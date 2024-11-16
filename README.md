@@ -4,4 +4,5 @@ Estou aprendendo a **linguagem Markdown** para o *Git/Github*
 
 
 Negrito: ** ... ** <br>
-Itálico: * ... *
+Itálico: * ... *  <br>
+Quebra de linha: "<br>"  <br>
